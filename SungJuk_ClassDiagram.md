@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     %% Boundary 클래스
     class Add_Sungjuk_UI {
