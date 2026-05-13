@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 classDiagram
     class 성적처리모델 {
         -점수지도: Map~String, int[]~
